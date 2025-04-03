@@ -13,12 +13,23 @@
 
 <h1 align="center"> My Socials </h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-  <img src="https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
+  <a href="https://t.me/aaditya_sinha" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+  <a href="mailto:555aaditya@proton.me" target="_blank">
+    <img src="https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/555aaditya/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://leetcode.com/555aaditya/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
+  </a>
+  <a href="https://www.kaggle.com/aaditya555" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
+  </a>
 </p>
+
 
 <h1 align="center"> My Techstack </h1>
 <p align="center">
@@ -53,9 +64,12 @@
 
 <h1 align="center"> Also, I listen to a lot of music </h1>
 <p align="center"> Check out my Spotify </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
+<p align='center'>
+  <a align='center' href="https://open.spotify.com/user/gk1gez31peor7jld9cwn79xjr" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
+  </a>
 </p>
+
 
 <p align="center">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=gk1gez31peor7jld9cwn79xjr&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" />
