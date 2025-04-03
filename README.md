@@ -44,6 +44,7 @@
 ![](https://leetcard.jacoblin.cool/555aaditya?ext=heatmap)
 
 # Also, I listen to a lot of music
-<p>Check out my Spotify</p>
+<p>Check out my Spotify</p> 
+![spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=gk1gez31peor7jld9cwn79xjr&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=gk1gez31peor7jld9cwn79xjr&redirect=true)
