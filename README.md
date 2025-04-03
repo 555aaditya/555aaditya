@@ -8,7 +8,6 @@
 
 <p align="center">
   <a href="https://www.chess.com/member/555aaditya">Playing Chess</a>
-  <br>
   <img align="center" src="https://img.shields.io/badge/dynamic/json?logo=chessdotcom&label=rating&query=%24.chess_rapid.last.rating&url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2F555aaditya%2Fstats"/>
 </p>
 
