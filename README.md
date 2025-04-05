@@ -2,12 +2,13 @@
   <img src="/header.png">
 </p> 
 
-<p align="center"> 
-  I am a passionate Software Engineer & Data Engineer with expertise in Python, Databases, Big Data, and Cloud Technologies. 
-</p> 
+<h2 align="center"> 
+  I'm a Software Developer & Data Engineer skilled in Python, databases, big data, and cloud technologies.
+As a fresher actively seeking internship opportunities in Software Development, Data Engineering, or Data Analysis, I bring hands-on experience through academic projects and personal learning. I've worked with tools like Hadoop, Spark, Kafka, AWS (EC2, Glue, Lambda), and visualization platforms like Power BI and Tableau. With strong problem-solving skills and a passion for building scalable, data-driven solutions, I’m eager to contribute to real-world challenges and grow alongside a dynamic team. 
+</h2> 
 
 <p align="center">
-  <a href="https://www.chess.com/member/555aaditya">Playing Chess</a>
+  <a href="https://www.chess.com/member/555aaditya">Chess</a>
   <img align="center" src="https://img.shields.io/badge/dynamic/json?logo=chessdotcom&label=rating&query=%24.chess_rapid.last.rating&url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2F555aaditya%2Fstats"/>
 </p>
 
@@ -31,7 +32,7 @@
 </p>
 
 
-<h1 align="center"> My Techstack </h1>
+<h1 align="center"> Technologies I have worked with </h1>
 <p align="center">
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
   <img src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white">
@@ -57,20 +58,8 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
 </p>
 
-<h1 align="center"> Currently Grinding DSA </h1>
+<h1 align="center"> My Leetcode Stats </h1>
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/555aaditya?ext=heatmap">
 </p>
 
-<h1 align="center"> Also, I listen to a lot of music </h1>
-<p align="center"> Check out my Spotify </p>
-<p align='center'>
-  <a align='center' href="https://open.spotify.com/user/gk1gez31peor7jld9cwn79xjr" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
-  </a>
-</p>
-
-
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=gk1gez31peor7jld9cwn79xjr&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" />
-</p>
