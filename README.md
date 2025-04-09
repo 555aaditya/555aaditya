@@ -4,7 +4,7 @@
 
 <h2 align="center"> 
   I'm a Software Developer & Data Engineer skilled in Python, databases, big data, and cloud technologies.
-As a fresher actively seeking internship opportunities in Software Development, Data Engineering, or Data Analysis, I bring hands-on experience through academic projects and personal learning. I've worked with tools like Hadoop, Spark, Kafka, AWS (EC2, Glue, Lambda), and visualization platforms like Power BI and Tableau. With strong problem-solving skills and a passion for building scalable, data-driven solutions, I’m eager to contribute to real-world challenges and grow alongside a dynamic team. 
+As a fresher actively seeking internship opportunities in Software Development, Data Engineering, or Data Analysis, I bring hands-on experience through academic projects and personal learning. I've worked with tools like Hadoop, Spark, Kafka, Airflow, AWS (EC2, Glue, Lambda), and visualization platforms like Power BI and Tableau. With strong problem-solving skills and a passion for building scalable, data-driven solutions, I’m eager to contribute to real-world challenges and grow alongside a dynamic team. 
 </h2> 
 
 <p align="center">
