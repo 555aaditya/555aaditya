@@ -48,8 +48,9 @@ through the Python services down to the Terraform that provisions all of it.
 |       **Data Engineering**     |                                                                                                  |
 |                 [Apache-Kafka] | Producers, consumers and topic operations built up from the ground.                              |
 |     [SalesPerformanceDashboard] | Exploratory sales analysis and KPI reporting in Jupyter.                                         |
-|      **ML & Computer Vision**  |                                                                                                  |
+|   **ML, LLM and Computer Vision** |                                                                                                  |
 |               [Gaze-Detection] | Exam proctoring using 68 point facial landmarks and YOLO phone detection.                        |
+|              [Language-Model] | From-scratch GPT-style language model: byte-level BPE, GQA + RoPE, tiled flash attention, hand-written AdamW, cached inference & benchmarking. |
 |      **Learning & Reference**  |                                                                                                  |
 |      [Competitive-Programming] | NeetCode and Codeforces solutions.                                                               |
 | [data-structures-and-algorithms] | DSA implementations and notebooks.                                                               |
@@ -64,6 +65,7 @@ through the Python services down to the Terraform that provisions all of it.
 [Eventora]: https://github.com/555aaditya/Eventora
 [Gaze-Detection]: https://github.com/555aaditya/Gaze-Detection
 [JamRoom]: https://github.com/555aaditya/JamRoom
+[Language-Model]: https://github.com/555aaditya/Language-Model
 [Optimised-Fuel-Route-API]: https://github.com/555aaditya/Optimised-Fuel-Route-API
 [SalesPerformanceDashboard]: https://github.com/555aaditya/SalesPerformanceDashboard
 [Stock-Backtesting-Pipeline]: https://github.com/555aaditya/Stock-Backtesting-Pipeline
