@@ -9,7 +9,7 @@ them. Outside work I build quantitative trading tooling from first principles an
 <p align="center">
   <a href="https://www.linkedin.com/in/555aaditya/"><strong>&#8598; linkedin</strong></a> &nbsp;
   <a href="https://github.com/aaditya-sinha-oaknorth"><strong>&#8598; oaknorth</strong></a> &nbsp;
-  <a href="#selected-projects" title="projects listed below"><strong>&#8601; projects</strong></a> &nbsp;
+  <a href="#projects" title="projects listed below"><strong>&#8601; projects</strong></a> &nbsp;
   <a href="https://leetcode.com/555aaditya/"><strong>&#8598; leetcode</strong></a> &nbsp;
   <a href="https://www.kaggle.com/aaditya555"><strong>&#8598; kaggle</strong></a> &nbsp;
   <a href="https://www.chess.com/member/555aaditya"><strong>&#8598; chess</strong></a> &nbsp;
@@ -31,7 +31,18 @@ through the Python services down to the Terraform that provisions all of it.
 - **Auth0 federated to Microsoft Entra ID** handles identity, with custom post login Actions mapping SSO groups to permission claims that are enforced at the gateway authoriser and checked again in the backend against field level capability rules.
 - An **HRIS sync** keeps the org chart current and feeds workforce reporting, people insights and the live dashboards built on top of it.
 
-### Selected Projects
+### Open Source Contributions
+
+<div align="center">
+
+|                                              Project | Commits | Merged PRs |
+| ---------------------------------------------------: | :-----: | :--------: |
+| [feldera/feldera](https://github.com/feldera/feldera) |    5    | [5](https://github.com/feldera/feldera/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya) |
+|         [morluto/rea](https://github.com/morluto/rea) |    2    | [2](https://github.com/morluto/rea/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya) |
+
+</div>
+
+### Projects
 
 <div align="center">
 
