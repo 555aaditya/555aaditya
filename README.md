@@ -35,10 +35,16 @@ through the Python services down to the Terraform that provisions all of it.
 
 <div align="center">
 
-|                                              Project | Commits | Merged PRs |
-| ---------------------------------------------------: | :-----: | :--------: |
-| [feldera/feldera](https://github.com/feldera/feldera) |    5    | [5](https://github.com/feldera/feldera/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya) |
-|         [morluto/rea](https://github.com/morluto/rea) |    2    | [2](https://github.com/morluto/rea/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya) |
+|                                                         Project | Commits |                                       Merged PRs                                        |
+| --------------------------------------------------------------: | :-----: | :-------------------------------------------------------------------------------------: |
+|           [feldera/feldera](https://github.com/feldera/feldera) |   10    | [5](https://github.com/feldera/feldera/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya) |
+|                   [morluto/rea](https://github.com/morluto/rea) |    6    |   [2](https://github.com/morluto/rea/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)   |
+| [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) |    6    |                                            0                                            |
+|                 [ruvnet/ruflo](https://github.com/ruvnet/ruflo) |    4    |                                            0                                            |
+|       [appwrite/appwrite](https://github.com/appwrite/appwrite) |    2    |                                            0                                            |
+| [vercel-labs/zerolang](https://github.com/vercel-labs/zerolang) |    1    |                                            0                                            |
+|       [metabase/metabase](https://github.com/metabase/metabase) |    1    |                                            0                                            |
+|       [openclaw/openclaw](https://github.com/openclaw/openclaw) |    1    |                                            0                                            |
 
 </div>
 
