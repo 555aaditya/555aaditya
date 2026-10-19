@@ -39,7 +39,7 @@ through the Python services down to the Terraform that provisions all of it.
 | --------------------------------------------------------------: | :-----: | :-------------------------------------------------------------------------------------------------: |
 |           [feldera/feldera](https://github.com/feldera/feldera) |   10    |       [9](https://github.com/feldera/feldera/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)       |
 | [useopendesk/opendesk](https://github.com/useopendesk/opendesk) |    4    |    [4](https://github.com/useopendesk/opendesk/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)     |
-|           [warmbly/warmbly](https://github.com/warmbly/warmbly) |    5    | [4](https://github.com/warmbly/warmbly/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)<sup>†</sup> |
+|           [warmbly/warmbly](https://github.com/warmbly/warmbly) |    5    | [4](https://github.com/warmbly/warmbly/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)|
 |                   [morluto/rea](https://github.com/morluto/rea) |    6    |         [2](https://github.com/morluto/rea/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)         |
 | [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) |    6    |                                                  0                                                  |
 |                 [ruvnet/ruflo](https://github.com/ruvnet/ruflo) |    4    |                                                  0                                                  |
@@ -48,7 +48,6 @@ through the Python services down to the Terraform that provisions all of it.
 | [vercel-labs/zerolang](https://github.com/vercel-labs/zerolang) |    1    |                                                  0                                                  |
 |       [metabase/metabase](https://github.com/metabase/metabase) |    1    |                                                  0                                                  |
 
-<sub>† includes <a href="https://github.com/warmbly/warmbly/pull/1005">#1005</a>, whose commit landed through <a href="https://github.com/warmbly/warmbly/pull/1009">#1009</a></sub>
 
 </div>
 
