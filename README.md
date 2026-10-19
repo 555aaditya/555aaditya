@@ -37,12 +37,12 @@ through the Python services down to the Terraform that provisions all of it.
 
 |                                                         Project | Commits |                                             Merged PRs                                              |
 | --------------------------------------------------------------: | :-----: | :-------------------------------------------------------------------------------------------------: |
-|           [feldera/feldera](https://github.com/feldera/feldera) |   10    |       [7](https://github.com/feldera/feldera/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)       |
+|           [feldera/feldera](https://github.com/feldera/feldera) |   10    |       [9](https://github.com/feldera/feldera/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)       |
+| [useopendesk/opendesk](https://github.com/useopendesk/opendesk) |    4    |    [4](https://github.com/useopendesk/opendesk/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)     |
 |           [warmbly/warmbly](https://github.com/warmbly/warmbly) |    5    | [4](https://github.com/warmbly/warmbly/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)<sup>†</sup> |
 |                   [morluto/rea](https://github.com/morluto/rea) |    6    |         [2](https://github.com/morluto/rea/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)         |
 | [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) |    6    |                                                  0                                                  |
 |                 [ruvnet/ruflo](https://github.com/ruvnet/ruflo) |    4    |                                                  0                                                  |
-| [useopendesk/opendesk](https://github.com/useopendesk/opendesk) |    4    |                                                  0                                                  |
 |       [appwrite/appwrite](https://github.com/appwrite/appwrite) |    2    |                                                  0                                                  |
 |       [openclaw/openclaw](https://github.com/openclaw/openclaw) |    2    |                                                  0                                                  |
 | [vercel-labs/zerolang](https://github.com/vercel-labs/zerolang) |    1    |                                                  0                                                  |
