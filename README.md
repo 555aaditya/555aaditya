@@ -37,17 +37,19 @@ through the Python services down to the Terraform that provisions all of it.
 
 |                                                         Project | Commits |                                             Merged PRs                                              |
 | --------------------------------------------------------------: | :-----: | :-------------------------------------------------------------------------------------------------: |
-|           [feldera/feldera](https://github.com/feldera/feldera) |   10    |       [9](https://github.com/feldera/feldera/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)       |
+|           [feldera/feldera](https://github.com/feldera/feldera) |   10    |      [10](https://github.com/feldera/feldera/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)       |
+|                   [morluto/rea](https://github.com/morluto/rea) |    6    |   [4](https://github.com/morluto/rea/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)<sup>‡</sup>   |
+|           [warmbly/warmbly](https://github.com/warmbly/warmbly) |    5    | [4](https://github.com/warmbly/warmbly/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)<sup>†</sup> |
+|                 [ruvnet/ruflo](https://github.com/ruvnet/ruflo) |    4    |        [4](https://github.com/ruvnet/ruflo/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)         |
 | [useopendesk/opendesk](https://github.com/useopendesk/opendesk) |    4    |    [4](https://github.com/useopendesk/opendesk/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)     |
-|           [warmbly/warmbly](https://github.com/warmbly/warmbly) |    5    | [4](https://github.com/warmbly/warmbly/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)|
-|                   [morluto/rea](https://github.com/morluto/rea) |    6    |         [2](https://github.com/morluto/rea/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)         |
+|       [openclaw/openclaw](https://github.com/openclaw/openclaw) |    2    |      [1](https://github.com/openclaw/openclaw/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)      |
 | [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) |    6    |                                                  0                                                  |
-|                 [ruvnet/ruflo](https://github.com/ruvnet/ruflo) |    4    |                                                  0                                                  |
 |       [appwrite/appwrite](https://github.com/appwrite/appwrite) |    2    |                                                  0                                                  |
-|       [openclaw/openclaw](https://github.com/openclaw/openclaw) |    2    |                                                  0                                                  |
 | [vercel-labs/zerolang](https://github.com/vercel-labs/zerolang) |    1    |                                                  0                                                  |
 |       [metabase/metabase](https://github.com/metabase/metabase) |    1    |                                                  0                                                  |
 
+<sub>‡ includes <a href="https://github.com/morluto/rea/pull/2971">#2971</a> and <a href="https://github.com/morluto/rea/pull/2979">#2979</a>, integrated on main by the maintainer (<a href="https://github.com/morluto/rea/commit/55dd21a5e">55dd21a</a>, <a href="https://github.com/morluto/rea/commit/ec56c1da0">ec56c1d</a>)</sub><br>
+<sub>† includes <a href="https://github.com/warmbly/warmbly/pull/1005">#1005</a>, whose commit landed through <a href="https://github.com/warmbly/warmbly/pull/1009">#1009</a></sub>
 
 </div>
 
