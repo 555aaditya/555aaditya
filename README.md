@@ -35,18 +35,18 @@ through the Python services down to the Terraform that provisions all of it.
 
 <div align="center">
 
-|                                                         Project | Commits |                                             Merged PRs                                              |
-| --------------------------------------------------------------: | :-----: | :-------------------------------------------------------------------------------------------------: |
-|           [feldera/feldera](https://github.com/feldera/feldera) |   10    |      [10](https://github.com/feldera/feldera/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)       |
-|                   [morluto/rea](https://github.com/morluto/rea) |    6    |   [4](https://github.com/morluto/rea/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)   |
-|           [warmbly/warmbly](https://github.com/warmbly/warmbly) |    5    | [4](https://github.com/warmbly/warmbly/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya) |
-|                 [ruvnet/ruflo](https://github.com/ruvnet/ruflo) |    4    |        [4](https://github.com/ruvnet/ruflo/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)         |
-| [useopendesk/opendesk](https://github.com/useopendesk/opendesk) |    4    |    [4](https://github.com/useopendesk/opendesk/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)     |
-|       [openclaw/openclaw](https://github.com/openclaw/openclaw) |    2    |      [1](https://github.com/openclaw/openclaw/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)      |
-| [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) |    6    |                                                  0                                                  |
-|       [appwrite/appwrite](https://github.com/appwrite/appwrite) |    2    |                                                  0                                                  |
-| [vercel-labs/zerolang](https://github.com/vercel-labs/zerolang) |    1    |                                                  0                                                  |
-|       [metabase/metabase](https://github.com/metabase/metabase) |    1    |                                                  0                                                  |
+|                                                         Project | Commits |                                          Merged PRs                                          |
+| --------------------------------------------------------------: | :-----: | :------------------------------------------------------------------------------------------: |
+|           [feldera/feldera](https://github.com/feldera/feldera) |   10    |   [10](https://github.com/feldera/feldera/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)   |
+|                   [morluto/rea](https://github.com/morluto/rea) |   11    |     [5](https://github.com/morluto/rea/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)      |
+|           [warmbly/warmbly](https://github.com/warmbly/warmbly) |    5    |   [4](https://github.com/warmbly/warmbly/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)    |
+|                 [ruvnet/ruflo](https://github.com/ruvnet/ruflo) |    4    |     [4](https://github.com/ruvnet/ruflo/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)     |
+| [useopendesk/opendesk](https://github.com/useopendesk/opendesk) |    4    | [4](https://github.com/useopendesk/opendesk/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya) |
+|       [openclaw/openclaw](https://github.com/openclaw/openclaw) |    3    |  [2](https://github.com/openclaw/openclaw/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)   |
+| [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) |    6    |                                              0                                               |
+|       [appwrite/appwrite](https://github.com/appwrite/appwrite) |    2    |                                              0                                               |
+| [vercel-labs/zerolang](https://github.com/vercel-labs/zerolang) |    1    |                                              0                                               |
+|       [metabase/metabase](https://github.com/metabase/metabase) |    1    |                                              0                                               |
 
 </div>
 
