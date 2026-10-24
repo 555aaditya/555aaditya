@@ -37,12 +37,12 @@ through the Python services down to the Terraform that provisions all of it.
 
 |                                                         Project | Commits |                                          Merged PRs                                          |                             Lines                             |
 | --------------------------------------------------------------: | :-----: | :------------------------------------------------------------------------------------------: | :-----------------------------------------------------------: |
-|           [feldera/feldera](https://github.com/feldera/feldera) |   13    |   [12](https://github.com/feldera/feldera/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)   |  ${\color{green}\textsf{+340}}$ ${\color{red}\textsf{-101}}$  |
+|           [feldera/feldera](https://github.com/feldera/feldera) |   14    |   [12](https://github.com/feldera/feldera/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)   |  ${\color{green}\textsf{+340}}$ ${\color{red}\textsf{-101}}$  |
 |           [warmbly/warmbly](https://github.com/warmbly/warmbly) |   13    |   [9](https://github.com/warmbly/warmbly/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)    |  ${\color{green}\textsf{+834}}$ ${\color{red}\textsf{-31}}$   |
 |                 [ruvnet/ruflo](https://github.com/ruvnet/ruflo) |    8    |     [7](https://github.com/ruvnet/ruflo/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)     |  ${\color{green}\textsf{+539}}$ ${\color{red}\textsf{-101}}$  |
 |                   [morluto/rea](https://github.com/morluto/rea) |   11    |     [5](https://github.com/morluto/rea/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)      | ${\color{green}\textsf{+1,066}}$ ${\color{red}\textsf{-134}}$ |
 | [useopendesk/opendesk](https://github.com/useopendesk/opendesk) |    4    | [4](https://github.com/useopendesk/opendesk/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya) |  ${\color{green}\textsf{+934}}$ ${\color{red}\textsf{-11}}$   |
-|       [openclaw/openclaw](https://github.com/openclaw/openclaw) |    3    |  [2](https://github.com/openclaw/openclaw/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)   |  ${\color{green}\textsf{+257}}$ ${\color{red}\textsf{-48}}$   |
+|       [openclaw/openclaw](https://github.com/openclaw/openclaw) |    3    |  [3](https://github.com/openclaw/openclaw/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)   |  ${\color{green}\textsf{+313}}$ ${\color{red}\textsf{-54}}$   |
 
 </div>
 
