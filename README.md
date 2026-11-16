@@ -35,18 +35,18 @@ through the Python services down to the Terraform that provisions all of it.
 
 <div align="center">
 
-|                                                           Project | Commits |                                          Merged PRs                                           |                             Lines                              |
+|                                                           Project | Commits |                                          Merged PRs                                           |                             Lines                              | Stars |
 | ----------------------------------------------------------------: | :-----: | :-------------------------------------------------------------------------------------------: | :------------------------------------------------------------: |
-|         [LadybugDB/ladybug](https://github.com/LadybugDB/ladybug) |   18    |  [16](https://github.com/LadybugDB/ladybug/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)   |   ${\color{green}\textsf{+579}}$ ${\color{red}\textsf{-49}}$   |
-|             [warmbly/warmbly](https://github.com/warmbly/warmbly) |   23    |   [15](https://github.com/warmbly/warmbly/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)    | ${\color{green}\textsf{+1,868}}$ ${\color{red}\textsf{-199}}$  |
-|             [feldera/feldera](https://github.com/feldera/feldera) |   15    |   [15](https://github.com/feldera/feldera/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)    |  ${\color{green}\textsf{+571}}$ ${\color{red}\textsf{-151}}$   |
-|                   [ruvnet/ruflo](https://github.com/ruvnet/ruflo) |   15    |     [13](https://github.com/ruvnet/ruflo/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)     | ${\color{green}\textsf{+1,004}}$ ${\color{red}\textsf{-155}}$  |
-|                     [morluto/rea](https://github.com/morluto/rea) |   20    |      [8](https://github.com/morluto/rea/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)      | ${\color{green}\textsf{+13,388}}$ ${\color{red}\textsf{-288}}$ |
-|         [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) |   11    |   [6](https://github.com/sqlfluff/sqlfluff/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)   |  ${\color{green}\textsf{+1,536}}$ ${\color{red}\textsf{-59}}$  |
-|           [pocoproject/poco](https://github.com/pocoproject/poco) |   10    |   [6](https://github.com/pocoproject/poco/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)    |   ${\color{green}\textsf{+179}}$ ${\color{red}\textsf{-13}}$   |
-|         [openclaw/openclaw](https://github.com/openclaw/openclaw) |    7    |   [5](https://github.com/openclaw/openclaw/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)   |   ${\color{green}\textsf{+490}}$ ${\color{red}\textsf{-85}}$   |
-|   [useopendesk/opendesk](https://github.com/useopendesk/opendesk) |    4    | [4](https://github.com/useopendesk/opendesk/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)  |   ${\color{green}\textsf{+934}}$ ${\color{red}\textsf{-11}}$   |
-| [narwhals-dev/narwhals](https://github.com/narwhals-dev/narwhals) |   11    | [2](https://github.com/narwhals-dev/narwhals/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya) |   ${\color{green}\textsf{+20}}$ ${\color{red}\textsf{-37}}$    |
+|         [LadybugDB/ladybug](https://github.com/LadybugDB/ladybug) |   18    |  [16](https://github.com/LadybugDB/ladybug/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)   |   ${\color{green}\textsf{+579}}$ ${\color{red}\textsf{-49}}$   | ⭐ 1,933 |
+|             [warmbly/warmbly](https://github.com/warmbly/warmbly) |   23    |   [15](https://github.com/warmbly/warmbly/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)    | ${\color{green}\textsf{+1,868}}$ ${\color{red}\textsf{-199}}$  | ⭐ 1,053 |
+|             [feldera/feldera](https://github.com/feldera/feldera) |   15    |   [15](https://github.com/feldera/feldera/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)    |  ${\color{green}\textsf{+571}}$ ${\color{red}\textsf{-151}}$   | ⭐ 2,176 |
+|                   [ruvnet/ruflo](https://github.com/ruvnet/ruflo) |   15    |     [13](https://github.com/ruvnet/ruflo/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)     | ${\color{green}\textsf{+1,004}}$ ${\color{red}\textsf{-155}}$  | ⭐ 81,862 |
+|                     [morluto/rea](https://github.com/morluto/rea) |   20    |      [8](https://github.com/morluto/rea/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)      | ${\color{green}\textsf{+13,388}}$ ${\color{red}\textsf{-288}}$ | ⭐ 463,559 |
+|         [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) |   11    |   [6](https://github.com/sqlfluff/sqlfluff/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)   |  ${\color{green}\textsf{+1,536}}$ ${\color{red}\textsf{-59}}$  | ⭐ 10,026 |
+|           [pocoproject/poco](https://github.com/pocoproject/poco) |   10    |   [6](https://github.com/pocoproject/poco/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)    |   ${\color{green}\textsf{+179}}$ ${\color{red}\textsf{-13}}$   | ⭐ 9,499 |
+|         [openclaw/openclaw](https://github.com/openclaw/openclaw) |    7    |   [5](https://github.com/openclaw/openclaw/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)   |   ${\color{green}\textsf{+490}}$ ${\color{red}\textsf{-85}}$   | ⭐ 394,577 |
+|   [useopendesk/opendesk](https://github.com/useopendesk/opendesk) |    4    | [4](https://github.com/useopendesk/opendesk/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)  |   ${\color{green}\textsf{+934}}$ ${\color{red}\textsf{-11}}$   | ⭐ 507 |
+| [narwhals-dev/narwhals](https://github.com/narwhals-dev/narwhals) |   11    | [2](https://github.com/narwhals-dev/narwhals/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya) |   ${\color{green}\textsf{+20}}$ ${\color{red}\textsf{-37}}$    | ⭐ 1,750 |
 
 </div>
 
