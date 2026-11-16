@@ -36,7 +36,7 @@ through the Python services down to the Terraform that provisions all of it.
 <div align="center">
 
 |                                                           Project | Commits |                                          Merged PRs                                           |                             Lines                              | Stars |
-| ----------------------------------------------------------------: | :-----: | :-------------------------------------------------------------------------------------------: | :------------------------------------------------------------: |
+| ----------------------------------------------------------------: | :-----: | :-------------------------------------------------------------------------------------------: | :------------------------------------------------------------: | :----: |
 |         [LadybugDB/ladybug](https://github.com/LadybugDB/ladybug) |   18    |  [16](https://github.com/LadybugDB/ladybug/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)   |   ${\color{green}\textsf{+579}}$ ${\color{red}\textsf{-49}}$   | ⭐ 1,933 |
 |             [warmbly/warmbly](https://github.com/warmbly/warmbly) |   23    |   [15](https://github.com/warmbly/warmbly/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)    | ${\color{green}\textsf{+1,868}}$ ${\color{red}\textsf{-199}}$  | ⭐ 1,053 |
 |             [feldera/feldera](https://github.com/feldera/feldera) |   15    |   [15](https://github.com/feldera/feldera/pulls?q=is%3Apr+is%3Amerged+author%3A555aaditya)    |  ${\color{green}\textsf{+571}}$ ${\color{red}\textsf{-151}}$   | ⭐ 2,176 |
